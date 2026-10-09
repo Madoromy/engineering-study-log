@@ -1,2 +1,23 @@
-# engineering-study-log
-My engineering learning journey, projects, and practice code.
+# Engineering Study Log
+
+エンジニアへの転職を目指して、
+学習した内容や制作物を記録するリポジトリです。
+
+## 学習目標
+
+- Git / GitHub の基本操作を習得する
+- Pythonで自動化ツールを作る
+- HTML / CSS / JavaScriptを復習する
+- 実践的な開発スキルを身につける
+
+## 学習記録
+
+- [x] VS Codeの導入
+- [x] Gitのインストールと初期設定
+- [x] GitHubリポジトリの作成
+- [ ] Gitの基本操作を練習する
+- [ ] Pythonで最初のツールを作る
+
+## 制作物
+
+これから作ったプログラムを追加していきます！
